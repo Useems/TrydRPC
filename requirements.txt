@@ -1,0 +1,4 @@
+pymsgbox>=1.0.9
+pystray>=0.17.2
+pywin32>=300
+pypresence>=4.2.0
