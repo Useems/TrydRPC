@@ -3,7 +3,7 @@ import subprocess, setuptools
 from distutils.core import setup
 from setuptools.command.install import install
 
-version='1.0.0'
+version='1.0.1'
 
 class Installer(install):
     def run(self):

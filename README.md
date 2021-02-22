@@ -16,4 +16,4 @@ python setup.py install # Outfile: dist/trydrpc.exe
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Useems/TrydRPC/blob/main/LICENSE)
