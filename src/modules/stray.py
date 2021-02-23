@@ -5,9 +5,9 @@ from pystray import Icon as icon, Menu as menu, MenuItem as item
 from threading import Thread
 
 class Stray:
-    def __init__(self):
+    def __init__(self, version=''):
         self.title = 'TrydRPC'
-        self.version = '1.0'
+        self.version = version
 
         self.image = Image.open(os.path.join(sys._MEIPASS if hasattr(sys, '_MEIPASS') else '', 'assets', 'app.ico'))
 

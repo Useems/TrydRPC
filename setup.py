@@ -2,8 +2,7 @@ import subprocess, setuptools
 
 from distutils.core import setup
 from setuptools.command.install import install
-
-version='1.0.1'
+from src.config import version
 
 class Installer(install):
     def run(self):
