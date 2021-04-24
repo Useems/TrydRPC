@@ -2,7 +2,7 @@
 
 [![Release App](https://github.com/Useems/TrydRPC/actions/workflows/release.yml/badge.svg)](https://github.com/Useems/TrydRPC/actions/workflows/release.yml)
 
-Discord Rich Presence for [Tryd plataform](https://www.tryd.com.br).
+Discord Rich Presence for [Tryd platform](https://www.tryd.com.br).
 
 ## Download
 
